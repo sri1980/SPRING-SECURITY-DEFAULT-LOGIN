@@ -1,0 +1,67 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+/target/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDE specific files
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/*.launch
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/.mvn/
+/.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Environment properties
+.env
+*.properties
+
+# IntelliJ IDEA files
+.idea
+*.iws
+*.ipr
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# VS Code files
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Spring Boot-specific
+*.jar
+*.war
+
+# Node.js directories (if applicable)
+node_modules/
+
+# Coverage and test results
+/coverage/
+*.coverage
+*.cover
+
+# MacOS specific
+*.DS_Store
